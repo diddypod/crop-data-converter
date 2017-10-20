@@ -2,4 +2,4 @@ This program was made for the Department of Statistics, Planning and Programme I
 
 The script takes year-wise input in the form of .txt files for each crop for each district, and then outputs them into a set of .xlsx files bygrouped by year, one for each crop, sorted district wise.
 
-The script uses [openpyxl](https://openpyxl.readthedocs.io/), and was converted to a .exe file using [py2exe](http://www.py2exe.org) for in-office and circulation.
+The script uses [openpyxl](https://openpyxl.readthedocs.io/), and was converted to a .exe file using [py2exe](http://www.py2exe.org) for in-office use and circulation.
